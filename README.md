@@ -1,3 +1,10 @@
+🔐 Cybersecurity
+🛡️ Penetration Testing
+🌐 Network Security
+🐍 Python
+🐧 Linux
+💻 TryHackMe
+📚 Always Learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igdarshandm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-matali-810160220/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanmatalidm18@gmail.com) 
